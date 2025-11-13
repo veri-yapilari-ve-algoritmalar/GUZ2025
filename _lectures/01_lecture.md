@@ -16,8 +16,7 @@ hide_from_announcments: false
 
 # optional
 links:
-  #  - url: https://docs.google.com/presentation/d/e/2PACX-1vQnWU62QtT8nzbZSxQrA2xrQ2wXWAllJAGtFJASPGNDC_6X93qDbr_-eGKMIQs6kam1kswembMlTXFe/pub?start=false&loop=false&delayms=3000
-     - url: https://docs.google.com/presentation/d/e/2PACX-1vRN-ICJjLRFokCWbq4MDrlgoAQI-PlOBb125oNZRX721_fEaerRwefgTC23pk-D0vQb1i7o4L8sx0xy/pub?start=false&loop=false&delayms=3000
+    - url: https://docs.google.com/presentation/d/e/2PACX-1vQnWU62QtT8nzbZSxQrA2xrQ2wXWAllJAGtFJASPGNDC_6X93qDbr_-eGKMIQs6kam1kswembMlTXFe/pub?start=false&loop=false&delayms=3000
       name: slaytlar
    # - url: #
    #   name: ders kaydı
