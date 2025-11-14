@@ -16,7 +16,7 @@ hide_from_announcments: false
 
 # optional
 links:
-    - url: https://docs.google.com/presentation/d/e/2PACX-1vQRRKyBXqHv4WKSbb9bFmO-c7e_cj6GUeHszrdSBOpdZ0UQp54A96ottVgc2Q5VXZdKWPQSHhBVYJh_/pub?start=false&loop=false&delayms=60000
+    - url: https://docs.google.com/presentation/d/e/2PACX-1vQchq_y_LVWbMwFGpT6ViFxiglZvG4gu-ziLxXabj_LXY9HHrFDmaCebWndL1G7DDx8pdV46rnmIR5H/pub?start=false&loop=false&delayms=3000
       name: slaytlar
 #    - url: #
 #      name: ders kaydı
