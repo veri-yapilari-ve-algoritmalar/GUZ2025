@@ -3,7 +3,7 @@ type: assignment
 date: 2021-11-04T12:00:00+0:00
 title: Quiz - 2
 
-hide_from_announcments: false
+hide_from_announcments: true
 
 due_event: 
     type: due
